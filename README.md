@@ -15,10 +15,10 @@ and unzipped into local folder.
 -Column names are set for the loaded data sets. Column names for feature data set is loaded from features.txt
 
 ## Cleaning data
--Activity, Subject and Feature data are merged into data.
--Columns pretaining to only meand and standard deviation is extracted for the given subject and activity.
--Activity names are loaded from activity_labels.txt and replaced with the respective ID from the loaded data.
--Columns are renamed to meaningful names
+- Activity, Subject and Feature data are merged into data.
+- Columns pretaining to only meand and standard deviation is extracted for the given      subject and activity.
+- Activity names are loaded from activity_labels.txt and replaced with the respective ID   from the loaded data.
+- Columns are renamed to meaningful names
     - t -> time
     - f -> frequency
     - Acc -> Accelerometer
