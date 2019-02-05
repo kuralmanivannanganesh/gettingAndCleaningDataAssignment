@@ -26,5 +26,5 @@ and unzipped into local folder.
     - Mag -> Magnitude
     - BodyBody -> Body
     
-#Analysis
+## Analysis
 New Data set is created with the calculated mean values for each variable for each activity and subject
